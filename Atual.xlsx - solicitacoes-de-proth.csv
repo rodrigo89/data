@@ -1,0 +1,79 @@
+Nome,Descrição,Status,Prioridade,Tipo,Duração da Solicitação,Pendência com,Nome do solicitante,Departamento
+Levantar requisitos necessarios para a atualização de Versão do Protheus p/ 12.1.33 Harpia,,Em Andamento,Alta,Projeto,06:57:12,,Rodrigo Sobral,Protheus
+"Customização do Estoque (fornecedor, produto, serial) - Bipagem Inicial (configuração e hardware)","Customização do Estoque (fornecedor, produto, serial) - Bipagem Inicial (configuração e hardware)",Em Andamento,Normal,Novo Desenvolvimento,00:11:55,,Carlos Arthur,Operações
+Customização do Estoque - Saída composta das ONUs (Software + Hardware),Customização no processo de entrada da NF-e (Produto) e NF- Serviço (Software),Em Andamento,Normal,Novo Desenvolvimento,03:20:11,ARTHUR,Carlos Arthur,Operações
+AUTOMATIZACAO DE FATURAMENTO DE NOTA DE REMESSA PARA PRODUTO EM COMODATO,PEGAR INFORMACOES DE ORDEM DE COMPRA DO VOALLE E FATURAR NOTA DE SAIDA DE REMESSA PARA CLIENTE NO PROTHEUS,Em Andamento,Alta,Novo Desenvolvimento,44:56:27,RAQUEL BEZERRA,João Paulo,Operações
+Integracao entre Protheus e Voalle - Financeiro,,Aguardando testes,Alta,Novo Desenvolvimento,10:23:24,Voalle,Douglas,Financeiro
+Configurar tipo de contrato variavel para gerar previsao de pagamento no financeiro - CLeo,,Em Andamento,Normal,Analise no Banco,01:00:19,,Cleójones,Gestao de Contratos
+Configuracao da nova base do voalle POSTGREES,,Em Andamento,Urgente,Novo Desenvolvimento,06:20:46,Totvs,Voalle,Protheus
+Erro ao incluir ausencia no MDT - chamado,,Em Andamento,Normal,Problema,03:32:17,Totvs,ALLAN,Med e Seg do Trab
+Criar usuarios no fluig,,Em Andamento,Alta,Melhoria,01:59:47,,Cleójones,Fluig
+Solicitação #14172614 Problema ao calcular beneficio para matriculas especificas,,Em Andamento,Normal,Manutenção,00:09:05,,Victor,DP
+Divergencia nas marcacoes do Carol ClockIn,,Em Andamento,Normal,Manutenção,00:20:43,,Jhennifer,Carol / ClockIn
+Erro ao calcular a folha - viktor RGB,,Em Andamento,Urgente,Analise no Banco,02:33:36,,Victor,DP
+Solicitação #14189801 Titulo não gerou contabilização - RENATA,,Em Andamento,Normal,Manutenção,00:00:07,,Renata,Contabilidade
+Verificar solicitacao com erro de integracao no fluig,,Em Andamento,Normal,Analise de Manutenção,00:08:24,,Cleójones,Fluig
+Aline - problema em atualizar NF que já sofreu movimentacao financeira,,Em Andamento,Normal,Analise de Manutenção,00:08:26,,Aline,Compras
+alterar ponto de entrada MT103FIM para levar o cc da nota de origem para a nota de devolucao,,Aguardando testes,Normal,Novo Desenvolvimento,00:21:09,,Raquel Bezerra,Financeiro
+Ajustar CNAB para considerar juros e multa no envio do arquivo,"Arquivos CNABs – Pgto Terceiros (TED, DOC, PIX) /Boletos vencidos (mesmo inserindo os juros/multas em acréscimos pelo financeiro, o pagamento não é efetuado – o banco rejeita); Nesta rotina de CNABs teremos que refazer todos os testes x Configuração de tipos de borderô;",Aguardando Retorno,Normal,Projeto,03:00:02,GLAUBER,Olivia Ribeiro,Financeiro
+Acompanhamento do erro de calculo de horistas,,Aguardando Retorno,Alta,Incidente,01:00:00,ANDREIA,Victor,DP
+Verificacao de Importacao de classificacao de bens (Ativo fixo),,Aguardando Retorno,Urgente,Melhoria,09:30:22,Dimas,Dimas Silva,Contabilidade
+Erro no calculo de apontamento de horas noturnas,funcionario está com 22 minutos de horas noturnas mas o sistema esta calculando 14,Aguardando Retorno,Normal,Incidente,01:00:00,VIKTOR,Victor,DP
+ARQUIVO DE RETORNO BANCARIO COM TITULOS A PAGAR COM ERRO DE CODIGO DE BARRAS,,Em Andamento,Normal,Analise de Desenvolvimento,03:02:35,,SAYARA,Financeiro
+Rotina de conciliação bancária automática,,Aguardando Retorno,Normal,Melhoria,04:03:31,GLAUBER,Alana Castro,Financeiro
+Analisar divergencia no extrato bancario = Carina,,Aguardando Aprovação,Normal,Analise de Manutenção,01:20:00,,Carina,Financeiro
+Replicação do centro de custo do pedido de compras para o documento de entrada - Cleo,,Aguardando Retorno,Normal,Melhoria,01:13:57,NP3,Cleójones,Compras
+Configurar CNAB de contas a pagar do MULTIPAG,,Aguardando Retorno,Normal,Projeto,09:12:23,ALANA,Douglas,Financeiro
+"Nos títulos desdobrados, replicar os anexos para as parcelas","Nos títulos desdobrados, replicar os anexos para as parcelas",Aguardando Retorno,Normal,Novo Desenvolvimento,03:10:19,,NP3,Financeiro
+Usuario relatorio que nao esta coseguindo visualizar determinado titulo no relatorio de contas a pagar,,Aguardando Retorno,Normal,Analise de Manutenção,00:10:06,REINER,Cleójones,Financeiro
+aplicacao Do patch da accountify na base de produção - fabio,,Aguardando Retorno,Alta,Novo Desenvolvimento,01:00:00,Fábio,Fábio,Contabilidade
+IMPORTAR CSV PARA ENTIDADE CONTABIL X GRUPO DE APROV - DBL - CLEO,,Aguardando Aprovação,Normal,Novo Desenvolvimento,05:18:43,,Cleójones,Compras
+Colocar as filiais 10 e 11 no CIN,,Aguardando Retorno,Alta,Melhoria,00:30:56,,Cleójones,Compras
+Relatorio de acompanhamento de Pagamento de contratos - Cleo,,Concluído,Normal,Novo Desenvolvimento,02:38:00,,Cleójones,Gestao de Contratos
+Relatorio de acompanhamento de Pagamento de Solicitacao de compras - Cleo,,Concluído,Normal,Novo Desenvolvimento,02:03:06,,Cleójones,Compras
+trocar filial de estoquista - artur,,Concluído,Normal,Manutenção,00:11:00,,Arthur,Operações
+erro ao dar entrada em nf em Caico - reiner,,Concluído,Alta,Analise de Manutenção,00:10:23,,Reiner Antônio Tavares Silva,Compras
+configuracao de ponto  e leituras para dias antes e apos apontamento - JHENNIFER,,Concluído,Alta,Melhoria,01:00:00,,Jhennifer,DP
+"ajuste nas tabelas de marcacoes de ponto - SP8, RFB, RFE, RR1",,Concluído,Alta,Analise no Banco,03:09:54,,Victor,DP
+Acompanhar projeto de incrementação FLUIG - COMPRAS,,Concluído,Alta,Novo Desenvolvimento,13:06:42,NP3,Breno Alves,Fluig
+WF fluig nao está sendo enviado em prod - Breno,,Concluído,Alta,Analise de Manutenção,00:25:20,,Breno Alves,Fluig
+Projeto Fluig - Integração do documento;,Projeto Fluig - Integração do documento;,Concluído,Normal,Novo Desenvolvimento,02:10:13,,NP3,Fluig
+Inclusão de documentos pelos modulos de compras e financeiro,"A inclusão de documentos digitalizados pelo módulo de compras x módulo financeiro pelo setores Administrativo/Contábil/Financeiro analisar a possibilidade de ser feito o Download por lote para que o financeiro possa programar os pagamentos, pois é inviável/impossível e improdutivo clicar em cada item (Contas a Pagar);",Concluído,Normal,Novo Desenvolvimento,00:10:47,,Olivia Ribeiro,Financeiro
+campo de valor unitario de NFE com mais de 6 caracteres,,Concluído,Alta,Melhoria,00:09:42,,Reiner Antônio Tavares Silva,Compras
+Erro ao importar Produto com descricao grande no vinculo de produto x fornecedor,,Concluído,Alta,Melhoria,00:06:00,,Reiner Antônio Tavares Silva,Compras
+Liberar acesso a contratos particulares para cleojones na base de testes,,Concluído,Normal,Manutenção,00:04:59,,Cleójones,Gestao de Contratos
+configuracao do grupo de estoquistas para as novas filiais de caico e parelhas - ARTUR,,Concluído,Urgente,Manutenção,00:14:00,,Arthur,Operações
+configurar o parametro MV_NG2FUNM - ALLAN,,Concluído,Normal,Melhoria,01:28:27,,ALLAN,Med e Seg do Trab
+inclusao de profissional na tabela generica P1 = allan,,Concluído,Normal,Melhoria,00:17:56,,ALLAN,Med e Seg do Trab
+Erro ao transferir funcionario para outra filial - VIKTOR,,Concluído,Alta,Incidente,02:41:48,,Victor,DP
+CONFIGURAR O AGENDAMENTO DA MARCACAO AUTOMATICA - PONAPI01,,Concluído,Alta,Manutenção,00:09:00,,Victor,DP
+ALTERAR A SENHA DA USUARIO CAROLINA. MANGUEIRA NA BASE DE TESTES,,Concluído,Alta,Manutenção,00:05:03,,Carol,Contabilidade
+Fazer a ordenacao do relatorio de contas a pagar por natureza - natureza-filial-valor,,Concluído,Normal,Melhoria,01:17:52,,Breno Alves,Financeiro
+"Aplicar Pacotes de correco dos modulos de estoque, financeiro, faturamento, compras, rh e backoffice",,Concluído,Normal,Manutenção,02:00:00,,Rodrigo Sobral,Protheus
+Ajustar o parametro MV_NG2AFAS - cod afastamento,,Concluído,Normal,Melhoria,01:00:00,,ALLAN,Med e Seg do Trab
+Erro ao lancar cadastro de ausencia - allan,,Concluído,Normal,Manutenção,01:00:00,,ALLAN,Med e Seg do Trab
+ERRO AO EXCLUIR DOCUMENTO COM TITULO LANCADO NA CONTABILIDADE,,Concluído,Alta,Analise de Manutenção,00:20:11,,Cleójones,Compras
+Dar acesso a Cleojones ao importador de Entidades Contabeis x Grupo aprovador,,Concluído,Normal,Analise de Manutenção,00:26:17,,Cleójones,Compras
+Dar acesso à Cleojones ao relatorio de acompanhamento de pagamentos,,Concluído,Normal,Analise de Manutenção,00:25:57,,Cleójones,Compras
+Alterar a senha de Marco em producao no Protheus,,Concluído,Normal,Analise de Manutenção,00:26:37,,Cleójones,Protheus
+Tornar o campo de objeto como obrigatorio na tabela de contratos - CLEOJONES,,Concluído,Normal,Melhoria,00:10:13,,Cleójones,Gestao de Contratos
+Alteracao do fonte ponr01 - criacao do diretorio para geracao dos relatorios,,Concluído,Normal,Melhoria,01:00:00,,Jhennifer,DP
+Configuração de calendario para geração do arquivo 2022 ECD - CAROLINA,,Concluído,Urgente,Projeto,01:59:48,Totvs,Carol,Contabilidade
+Incluir o codigo de municipio nas filiais novas - Caico e Parelhas,,Concluído,Alta,Melhoria,00:15:00,,Carol,Protheus
+Alterações de filiais para os estoquistas - Arthur,,Concluído,Normal,Manutenção,00:26:00,,Arthur,Operações
+Erro ao exportar xml da nfe - Erika,,Concluído,Normal,Analise de Manutenção,00:32:00,,Dimas Silva,Contabilidade
+Alterar a senha do admin - protheus,,Concluído,Normal,Manutenção,01:00:24,,Rodrigo Sobral,Protheus
+Erro ao acessar clockin chamado  #14139565,,Concluído,Normal,Problema,01:01:23,,Jhennifer,DP
+Ajuste no fonte PONR01 - alterar caminho para geracao de arquivos,,Concluído,Alta,Melhoria,01:02:05,,Jhennifer,DP
+CONFIGURAR PEDIDO DE COMPRAS PRA NASCER PENDENTE DE APROVACAO - CLEO,,Concluído,Alta,Melhoria,00:24:56,,Cleójones,Compras
+Apagar os dado de banco de horas - DP,,Concluído,Normal,Analise no Banco,00:33:19,,Jhennifer,DP
+Erro no rest de producao   afetando CIN e FLuig,,Concluído,Urgente,Analise de Manutenção,02:20:39,,Rodrigo Sobral,Protheus
+Apagar as solicitacoes ja aprovadas pelo Protheus nO fluig - Breno,,Concluído,Normal,Manutenção,00:38:10,,Breno Alves,Financeiro
+REUNIAO COM A NP3 PARA DEFINIR ASSUNTOS DA 2 PARTE DO PROJETO DE ATUALIZACAO DO FLUIG,,Concluído,Alta,Projeto,01:38:08,,Rodrigo Sobral,Fluig
+Falha ao acessar o meu rh - servico fora,,Concluído,Normal,Problema,01:00:00,,Jhennifer,DP
+Extracao dos contratos de compras com a informacao de objeto,,Concluído,Alta,Analise no Banco,00:26:28,,Cleójones,Gestao de Contratos
+Problema ao transmitir nota fiscal de saida em natal - xml antigo,,Concluído,Imediata,Analise no Banco,00:45:42,,Erika,Contabilidade
+Configuracao de certificado digital na filial 02,,Concluído,Alta,Melhoria,01:00:00,,Erika,Contabilidade
+Configuracao do agendamento ponapi01 - carol,,Concluído,Normal,Melhoria,01:25:31,,Jhennifer,DP
+configuracoes nas filiais do estoquista andre.portugal,,Concluído,Alta,Manutenção,01:00:00,,Arthur,Operações
+Atualizar as stored procedures do relacionada ao sigactb,,Concluído,Urgente,Melhoria,01:00:00,,Carol,Contabilidade
